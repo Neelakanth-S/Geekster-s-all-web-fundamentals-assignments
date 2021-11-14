@@ -16,3 +16,4 @@ Task 2 GM,GE,GN link (11th Nov) : https://neelakanth-s.github.io/Task-2-GM-GE-GN
 javascript assignment-1(cylinder,voltage and wall paint) link (8th Nov) : https://github.com/Neelakanth-S/cylinder-voltage-paint-assignment ||
 javascript assignment-2(array,mode,prime) link (10th Nov) : https://github.com/Neelakanth-S/JS-assignment-2-array-mode-prime- ||
 JS-assignment-3 HTTPs and APIs link (12th Nov) : https://neelakanth-s.github.io/HTTPS-and-APIs-/ ||
+General Questions assignment link (14th Nov) : https://neelakanth-s.github.io/General-Questions-Assignment/ ||
