@@ -13,4 +13,6 @@ Calculator link (5th nov): https://neelakanth-s.github.io/Calculator/ ||
 CountDown Timer link (7th Nov) : https://neelakanth-s.github.io/Countdown-timer/ ||
 Password Show/hide link (11th Nov) : https://neelakanth-s.github.io/password-show-and-hide/ ||
 Task 2 GM,GE,GN link (11th Nov) : https://neelakanth-s.github.io/Task-2-GM-GE-GN-/ ||
-javascript 3 assignments(cylinder,voltage and wall paint) link (8th Nov) : https://github.com/Neelakanth-S/cylinder-voltage-paint-assignment ||
+javascript assignment-1(cylinder,voltage and wall paint) link (8th Nov) : https://github.com/Neelakanth-S/cylinder-voltage-paint-assignment ||
+javascript assignment-2(array,mode,prime) link (10th Nov) : https://github.com/Neelakanth-S/JS-assignment-2-array-mode-prime- ||
+JS-assignment-3 HTTPs and APIs link (12th Nov) : https://neelakanth-s.github.io/HTTPS-and-APIs-/ ||
