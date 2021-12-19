@@ -27,3 +27,4 @@ All patterns (test) (box,diamond,hollow pyramid,hourglass,left triangle) link (D
 *Swiggy website(test) : https://neelakanth-s.github.io/Swiggy-front-page/
 Geekster website (test): https://neelakanth-s.github.io/Geekster-static-page/#
 API (test) : https://neelakanth-s.github.io/Dec-12th-fetch-Assignment/
+Fetch random user details API link : https://neelakanth-s.github.io/FetchRandomUserDetails/
